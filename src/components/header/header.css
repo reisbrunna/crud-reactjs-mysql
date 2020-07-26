@@ -1,0 +1,15 @@
+header#main-header {
+    width: 90%;
+    max-width: 1100px;
+    height: 100%;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    font-size: 30px;
+    display: flex;
+    color: rgb(58, 58, 58);
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+
+}
